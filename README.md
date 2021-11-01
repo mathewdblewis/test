@@ -1,6 +1,6 @@
-This is how you insert an image:
+### How to insert images and gifs
 
-### Place 1
+This is how you insert an image:
 
 ```` 
 <img src="https://bit.ly/31oCiah" width=20% height=20%>
@@ -15,7 +15,7 @@ and here is another example:
 
 
 
-[here](#place-1)
+[here](#How to insert images and gifs)
 
 
 bla bla bla  
