@@ -15,7 +15,7 @@ and here is another example:
 
 
 
-[here](#How to insert images and gifs)
+[here](#How-to-insert-images-and-gifs)
 
 
 bla bla bla  
