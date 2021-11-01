@@ -15,7 +15,10 @@ and here is another example:
 
 
 
-[here](#How-to-insert-images-and-gifs)
+[This](#How-to-insert-images-and-gifs) is a link to "How to insert images and gifs", here is how you can make a link like this one:  
+````
+[This](#How-to-insert-images-and-gifs)
+````
 
 
 bla bla bla  
