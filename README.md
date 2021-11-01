@@ -20,6 +20,8 @@ and here is another example:
 [This](#How-to-insert-images-and-gifs)
 ````
 
+You can use links like this one to make internal links in your document  
+
 
 Also you can do links like [this link here](https://www.wikipedia.org/) to wikipedia by doing this:
 
@@ -27,5 +29,5 @@ Also you can do links like [this link here](https://www.wikipedia.org/) to wikip
 [this link here](https://www.wikipedia.org/)
 ````
 
-
+Finally, note that to do a new line, you need to put two spaces after the end of the line
 
