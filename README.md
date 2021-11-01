@@ -3,9 +3,7 @@ this is a test
 
 
 
-![alt text](https://bit.ly/31oCiah){ width: 200px; }
-
-
+<img src="https://bit.ly/31oCiah" width=50% height=50%>
 
 
 asdf
