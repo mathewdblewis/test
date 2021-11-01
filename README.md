@@ -21,10 +21,10 @@ and here is another example:
 ````
 
 
-Also you can do links like [this](https://www.wikipedia.org/) one to wikipedia by doing this:
+Also you can do links like [this link here](https://www.wikipedia.org/) to wikipedia by doing this:
 
 ````
-[this](https://www.wikipedia.org/)
+[this link here](https://www.wikipedia.org/)
 ````
 
 
